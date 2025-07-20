@@ -1,0 +1,21 @@
+{
+  "name": "emotional pain",
+  "version": "1.3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys-old",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.64.0",
+    "pino": "^9.6.0"
+  },
+  "keywords": [],
+  "author": "ᴱᵐᵒᵗᶦᵒⁿᵃˡ ᵖᵃᶦⁿ ",
+  "license": "ISC",
+  "description": "Tok Nak Berak Tok"
+}
